@@ -50,12 +50,5 @@ intersections with all functions executing under 150ms.
 - Integrated "Paimon" travel guide assistant with local recommendations
 - Route visualization between any two intersections
 
-## What I Built
-- Designed and implemented the geo-grid spatial indexing system
-- Led profiling effort using perf flame graphs — identified and 
-  eliminated bottlenecks reducing query time by 90%+
-- Led the 4-person team using Git with branch management
-- Built the partial-name search and click-highlight UI features
-
 ## Team
 4-person team project — UofT ECE297 (Software Design and Communication)
