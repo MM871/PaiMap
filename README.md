@@ -4,8 +4,10 @@ A high-performance interactive mapping application built in C++ using
 OpenStreetMap data. Achieved O(1) spatial queries across 100K+ Toronto 
 intersections with all functions executing under 150ms.
 
-> [!Source code is kept private per course policy (UofT ECE297). This repository contains documentation and visuals only.]
-
+> [!WARNING]
+> Source code is kept private per course policy (UofT ECE297). This repository contains documentation and visuals only.
+>
+> 
 ## Screenshots
 <img width="1684" height="1004" alt="image" src="https://github.com/user-attachments/assets/fca899b5-83ed-4dbb-a911-1e334a88ceb0" />
 
